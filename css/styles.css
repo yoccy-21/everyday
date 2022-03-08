@@ -1,0 +1,11 @@
+h1 {
+  font-size: 32px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #ddd;
+}
+
+h2 {
+  font-size: 24px;
+  padding-left: 16px;
+  border-left: 8px solid chocolate;
+}
